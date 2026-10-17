@@ -1,0 +1,6 @@
+{
+  "name": "FoodZY - Tìm kiếm nhà hàng, quán cà phê và quán bar",
+  "description": "Nền tảng tìm kiếm và khám phá những nhà hàng, quán cà phê và quán bar tốt nhất cùng FoodZY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
